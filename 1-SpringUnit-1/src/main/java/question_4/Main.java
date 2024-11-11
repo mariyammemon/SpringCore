@@ -18,11 +18,3 @@ public class Main {
     }
 }
 
-//Student ID: 22000214
-//Student Name: Abhiraj
-//Question ID: 1
-//Question: What is Java?
-//Answers: [Programming Language, Platform, Both]
-//Question ID: 2
-//Question: What is Spring?
-//Answers: [Framework, Library, Both]
